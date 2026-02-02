@@ -1,5 +1,3 @@
---// This file was created by XHider https://t.me/+Rm00uGVzUQthNmNl
-
 do
 	ply = game.Players;
 	plr = ply.LocalPlayer;
